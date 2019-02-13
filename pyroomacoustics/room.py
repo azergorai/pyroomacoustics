@@ -29,7 +29,7 @@ Create the room
 ~~~~~~~~~~~~~~~
 
 So-called shoebox rooms are pallelepipedic rooms with 4 or 6 walls (in 2D and 3D,
-respectiely), all at right angles. They are defined by a single vector that contains
+respectively), all at right angles. They are defined by a single vector that contains
 the lengths of the walls. They have the advantage of being simple to define and very
 efficient to simulate. A ``9m x 7.5m x 3.5m`` room is simply defined like this
 
